@@ -1,0 +1,15 @@
+{
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "appID":"GT2QH9TB98.com.dev.wbtest",
+                "paths":[
+                    "/app/*"
+                ]
+            },
+        ]
+    }
+}
